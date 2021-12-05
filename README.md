@@ -1,5 +1,10 @@
 # cs305_module05
 
+This is the first line of the README file
+
+## Contrubutors
+Tyler Lockwood <tcl72@nau.edu>
+
 # Introduction
 cs305_module05 is an open source project by Kelene Moore.
 In 2021, Kelene enrolled in cs305 class at Northern Arizona University.

@@ -12,3 +12,4 @@ The MIT license gives users express permission to reuse code for any purpose, so
 # About the author
 Kelene Moore is a junior at NAU.
 For more information follow her on <a href="https://www.linkedin.com/in/kelene-moore/">LinkedIn</a>
+Javier Herrer Torres <jh3549@nau.edu>
